@@ -15,3 +15,9 @@
  */
 
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
+
+
+<body>
+        <h1>Hello world!</h1>
+</body>
+
