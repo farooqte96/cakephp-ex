@@ -40,6 +40,4 @@ if (!defined('CAKE_CORE_INCLUDE_PATH')) {
 
 require APP_DIR . DS . WEBROOT_DIR . DS . 'index.php';
 
-<body>
-        <h1>Hello world!</h1>
-</body>
+
